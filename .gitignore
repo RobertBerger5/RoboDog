@@ -1,0 +1,11 @@
+*~
+#*#
+tracking/*
+speech/*
+*.mp4
+*.png
+*.pptx
+*.zip
+*.pdf
+!Robodog_Paper.pdf
+dogbrain.txt
