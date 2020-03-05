@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="feed_refresh_options">
+        <item>250</item>
+        <item>2500</item>
+        <item>25000</item>
+        <item>250000</item>
+    </string-array>
+    <string-array name="feed_selection">
+        <item>Feed 1</item>
+        <item>Feed 2</item>
+        <item>Feed 3</item>
+        <item>Feed 4</item>
+        <item>Feed 5</item>
+        <item>Feed 6</item>
+    </string-array>
+    <integer-array name="feeds">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </integer-array>
+</resources>

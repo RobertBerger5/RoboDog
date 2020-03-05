@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#37b6f6</color>
+    <color name="colorPrimaryDark">#882ff6</color>
+    <color name="colorAccent">#f99d07</color>
+    <color name="progressColor">#35d461</color>
+
+    <color name="buttonGray">#aaaaaa</color>
+    <color name="buttonRed">#f2200a</color>
+    <color name="buttonYellow">#f9e104</color>
+    <color name="buttonGreen">#35d461</color>
+
+    <color name="black_overlay">#66000000</color>
+</resources>

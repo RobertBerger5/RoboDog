@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">RoboDog Companion App</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_pi_feed1">PiFeed1</string>
+    <string name="feed_button">Open Feeds</string>
+    <string name="title_activity_settings">Settings</string>
+
+
+    <string name="setting_feed_1">Feed 1 IP</string>
+    <string name="setting_feed_2">Feed 2 IP</string>
+    <string name="setting_feed_3">Feed 3 IP</string>
+    <string name="setting_feed_4">Feed 4 IP</string>
+    <string name="setting_feed_5">Feed 5 IP</string>
+    <string name="setting_feed_6">Feed 6 IP</string>
+
+    <string name="speech_button">Say Command</string>
+    <string name="speech_text">(spoken commands will display here)</string>
+    <string name="feed_refresh_rate">Feed Refresh Rate</string>
+    <string name="setting_feed_select">Feed Selection</string>
+
+    <string name="socket_text">Connect</string>
+    <string name="ipfield">IP of Robot</string>
+    <string name="socket_not_init">ERROR: try connecting to the server first</string>
+
+</resources>
