@@ -126,6 +126,7 @@ def obstacleForce():
   else: #weird things happened
     usProgress=0
     return (0,0)
+  #magnitude of the vector it gives off: https://www.desmos.com/calculator/qcciv0mbux
   magnitude=(10000/dist)-175
   #print(magnitude," at angle ",angle)
   return(magnitude*(-.1),angle) #go backwards and reduce how strong the force is
